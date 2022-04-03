@@ -25,5 +25,4 @@ d.clear()
 print(d)
 
 #Tuples is a list vlues ggrouped together
-
 point = (5,9)
