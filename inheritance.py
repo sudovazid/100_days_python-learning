@@ -24,12 +24,10 @@ class MotorCycle(Vehicle):
     
 
 c = Car()
-
 c.specific_usage()
 
 
 m = MotorCycle()
-
 m.specific_usage()
 
 
